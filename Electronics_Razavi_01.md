@@ -1,6 +1,6 @@
 # Razavi Electronics 1, Lec 1
 
-This is my note for the electronics lecture 1 from razavi, I hope I can keep going it!!!
+This is my note for the electronics from razavi, I hope I can keep going it!!!
 
 ---
 
@@ -68,7 +68,8 @@ This is my note for the electronics lecture 1 from razavi, I hope I can keep goi
 * Concept of Bandgap Energy
     * As temperature goes up, the density of free elctrons in Si increases.
     + The bandgap energy means the energy an electron needs to be free from bond of atom
-    +  pure silicon aka intrinsic Si is a poor conductor due to poor amount of free electrons 
+    +  pure silicon aka intrinsic Si is a poor conductor due to poor amount of free electrons
+    + For Si, $T=300k$, $n_i$(density of free electrons) approx equal to $10^{10}$ electrons per $cm^3$
 
 * Concept of Holes
     * when an electron is gone due to high thermal energy, the bond is missing an electron, we call its a hole
@@ -77,7 +78,7 @@ This is my note for the electronics lecture 1 from razavi, I hope I can keep goi
     * The density of holes is equal to density of electrons 
 
 ### Doping
-    + Add some boron(3 electrons) or phosphorus(5 electrons) in pure silicon piece, it is doping 
++ Add some boron(3 electrons) or phosphorus(5 electrons) in pure silicon piece, it is doping 
 
  
 
