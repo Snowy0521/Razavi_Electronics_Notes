@@ -1,4 +1,4 @@
-# Razavi Electronics 1, Lec 1
+# Razavi Electronics 1, Lec 1, Intro., Charge Carriers, Doping
 
 This is my note for the electronics from razavi, I hope I can keep going it!!!
 

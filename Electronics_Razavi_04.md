@@ -1,4 +1,4 @@
-# Razavi Electronics 1, Lec 4
+# Razavi Electronics 1, Lec 4, PN Junction in Equilibrium and Reverse Bias
 
 This is my note for the electronics from razavi, I hope I can keep going it!!!
 

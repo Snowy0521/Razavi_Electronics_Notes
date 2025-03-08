@@ -1,4 +1,4 @@
-# Razavi Electronics 1, Lec 5
+# Razavi Electronics 1, Lec 5, PN Junction in Forward Bias, Intro. to Diodes
 
 This is my note for the electronics from razavi, I hope I can keep going it!!!
 

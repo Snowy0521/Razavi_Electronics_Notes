@@ -1,4 +1,4 @@
-# Razavi Electronics 1, Lec 3
+# Razavi Electronics 1, Lec 3, Diffusion, Intro. to PN Junction
 
 This is my note for the electronics from razavi, I hope I can keep going it!!!
 
