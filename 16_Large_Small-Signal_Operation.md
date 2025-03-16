@@ -6,16 +6,16 @@ This is my note for the electronics from razavi, I hope I can keep going it!!!
 
 ## Table of Contents
 
-1. [I-V Characteristics of Bipolar Transistor]()
-2. [Simple Transistor Model]()
-3. [Large-Signal and Small-Signal Operation]()
+1. [I-V Characteristics of Bipolar Transistor](#i-v-characteristics-of-bipolar-transistor)
+2. [Simple Transistor Model](#simple-transistor-model)
+3. [Large-Signal and Small-Signal Operation](#large-signal-and-small-signal-operation)
 
 
 
 
 ---
 ## I-V Characteristics of Bipolar Transistor
-+ see youtube video
++ [see video tutorial](https://www.youtube.com/watch?v=SueDJ13jLe8&list=PLyYrySVqmyVPzvVlPW-TTzHhNWg1J_0LU&index=16&ab_channel=BehzadRazavi%28LongKong%29)
 ### Combining Time Response with I-V Characteristics
 + The $V_{BE}$ changes with time, so does $I_C$
 

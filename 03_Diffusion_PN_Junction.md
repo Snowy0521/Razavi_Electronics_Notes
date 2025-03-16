@@ -45,10 +45,11 @@ This is my note for the electronics from razavi, I hope I can keep going it!!!
 + same for p-type, leave negative ions in p-type
 + so negative $n$ go from n-type to p-type (negative current), positive $p$ go from p-type to n-type (positive current), so cause a total positive current from p-type to n-type.
 + the shield of positive ions in n-type and of negative ions in p-type **(depletion region)** cause an electric fields, point from n-type to p-type.
-+ the shields due to its electric fiels oppose the diffusion electrons and holes, stop the diffusion current => equilibrium
++ the shields due to its electric fields oppose the diffusion electrons and holes, stop the diffusion current => equilibrium
 ---
 ## Questions
 1. How do the charge carriers redistribute themselves after the pn junction is formed?
+    + Diffusion to equilibrium
 2. How does the pn junction behave under three conditions:
     + Equilibrium
     + Reverse bias

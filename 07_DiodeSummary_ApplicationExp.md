@@ -27,9 +27,9 @@ This is my note for the electronics from razavi, I hope I can keep going it!!!
     + Make the half-wave AC signal go through low pass filter, we get the DC signal 
 ---
 ## Practice with Diode Circuits
-+ see in youtube video
++ [see in video tutorial](https://www.youtube.com/watch?v=PoPp3Ea6KMs&list=PLyYrySVqmyVPzvVlPW-TTzHhNWg1J_0LU&index=7&ab_channel=BehzadRazavi%28LongKong%29)
 
---
+---
 ## Types of Characteristics
 + I-V Characteristics
 + Input-Output Characteristics

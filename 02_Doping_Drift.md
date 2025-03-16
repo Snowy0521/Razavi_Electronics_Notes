@@ -1,4 +1,4 @@
-# Razavi Electronics 1, Lec 2, Dopling, Drift
+# Razavi Electronics 1, Lec 2, Doping, Drift
 
 This is my note for the electronics from razavi, I hope I can keep going it!!!
 

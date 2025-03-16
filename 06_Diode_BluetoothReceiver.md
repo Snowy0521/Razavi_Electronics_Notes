@@ -28,7 +28,7 @@ This is my note for the electronics from razavi, I hope I can keep going it!!!
 + Damage to diode 
 ---
 ## Circuits Examples
-+ See video in youtube
++ [See video tutorial](https://www.youtube.com/watch?v=EnA9m7TOaoI&list=PLyYrySVqmyVPzvVlPW-TTzHhNWg1J_0LU&index=6&ab_channel=BehzadRazavi%28LongKong%29)
 
 --- 
 ## Bluetooth Receiver

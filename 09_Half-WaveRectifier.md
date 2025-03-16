@@ -13,7 +13,7 @@ This is my note for the electronics from razavi, I hope I can keep going it!!!
 
 ---
 ## Diode Circuit Examples
-+ see youtube video
++ [see video tutorial](https://www.youtube.com/watch?v=4BoxbOs2gs0&list=PLyYrySVqmyVPzvVlPW-TTzHhNWg1J_0LU&index=9&ab_channel=BehzadRazavi%28LongKong%29)
   
 ---
 ## Practical Diode Circuits

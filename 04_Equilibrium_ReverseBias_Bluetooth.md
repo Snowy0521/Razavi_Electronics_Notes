@@ -16,7 +16,7 @@ This is my note for the electronics from razavi, I hope I can keep going it!!!
 + $J_{drift} = (\mu_n n + \mu_p p)E \cdot q$
 + $J_{diffusion} = (D_n \frac{dn}{dx} - D_p \frac{dp}{dx})q$ 
 + Equilibrium condition:
-    + Diffusion current of electrons = Drift current of elctrons
+    + Diffusion current of electrons = Drift current of electrons
     + Diffusion current of holes = Drift current of holes => $D_p \frac{dp}{dx} = \mu_p \cdot p\cdot E$
 + After integrate both sides:
 $\int_{P_n}^{P_p} D_p \frac{dp}{p} = \mu_p \int_{x_1}^{x_2} E dx$, where ${P_n} = \frac{n_i^2}{N_d}$ and ${P_p = N_a}$ are the density of holes in n-side and p-side, the $x1$ and $x2$ are the left side and right side of depetion region.

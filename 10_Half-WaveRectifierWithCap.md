@@ -35,9 +35,7 @@ This is my note for the electronics from razavi, I hope I can keep going it!!!
     + The amplitude of ripple: $V_{out}(t = 0) - V_{out}(t = T_{in}) = (V_{peak} - V_{D,on})\frac{T_{in}}{\tau} = \frac{V_{peak} - V_{D,on}}{R_1C_1f_{in}} $
 
   
----
-## Full-Wave Rectifier
-+ see next note
+
 
 
 

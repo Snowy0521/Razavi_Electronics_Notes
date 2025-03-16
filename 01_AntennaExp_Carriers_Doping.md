@@ -36,7 +36,7 @@ This is my note for the electronics from razavi, I hope I can keep going it!!!
         $$
             \lambda = \frac{c}{f}
         $$
-        + For half-wavelength antenna, the relationship of Antenna length($L$) and $\lambda$
+        + For half-wavelength antenna, the relationship of Antenna length($L$) and $\lambda$：
         $
             L = \frac{\lambda}{2}
         $
@@ -93,6 +93,7 @@ This is my note for the electronics from razavi, I hope I can keep going it!!!
 3. How can we modify the density of charge carriers?
     + doping 
 4. How do charge carriers move?
+    + drift and diffusion
 
 5. Why are holes slower than electrons?
     + Movement of holes is based on release and trap mechanisms.

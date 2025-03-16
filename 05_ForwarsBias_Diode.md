@@ -8,14 +8,13 @@ This is my note for the electronics from razavi, I hope I can keep going it!!!
 
 1. [PN-Junction in Forward Bias](#pn-junction-in-forward-bias)
 2. [Modeling the PN-Junction](#modeling-the-pn-junction)
-3. [Reverse Breakdown](#reverse-breakdown)
-4. [Quiz](#quiz)
+3. [Quiz](#quiz)
 
 ---
 ## PN-Junction in Forward Bias
 + For a battery with forward bias voltage $V_F$, positive of battery connects to p-side, negative of battery connects to n-side.
 + electrons are pushed from n-side to p-side, holes are pushed from p-side to n-side, causes current can go on indefinitely.
-+ The equation of forward bias current $I_{D}=I_{S}\left(exp\frac{V_{D}}{V_{T}}-1\right)$, where $I_S$ is reverse saturation current and $V_T = \frac{kT}{q}$
++ The equation of forward bias current $I_{D}=I_{S}\left(\exp\frac{V_{D}}{V_{T}}-1\right)$, where $I_S$ is reverse saturation current and $V_T = \frac{kT}{q}$
 + When $V_D$ is negative and its absolute value more large than $V_T$, then $I_D \approx -I_S$, that why call $I_S$ reverse saturation current (very very small).
     * $I_S = A \cdot q \cdot n_i^2 \cdot (\frac{D_n}{N_aL_n} + \frac{D_p}{N_dL_p} )$, where A is cross section area of junction, $n_i$ is intrinsic density of electrons and holes, $L_n$ and $L_p$ are diffusion lengths.
 
@@ -34,8 +33,7 @@ This is my note for the electronics from razavi, I hope I can keep going it!!!
 + Exponential Model: $I_D = I_S \cdot e^\frac{V_D}{V_T}$
     + the exponential function is not efficient to represent the diode in circuit by hand-on calculating.
 
----
-## Reverse Breakdown
+
 
 
 

@@ -32,7 +32,7 @@ This is my note for the electronics from razavi, I hope I can keep going it!!!
 ## Concept of Transconductance
 + $g_m = \left. \frac{dI_C}{dV_{BE}} \right|_{V_{CE} \, \text{const.}}$ with unit of siemens($S$)
 * $g_m = \frac{d}{d_{BE}}(I_S\exp\frac{V_{BE}}{V_T} - 1) = \frac{I_S}{V_T}\exp\frac{V_{BE}}{V_T} \approx \frac{I_C}{V_T}$ 
-+ if $I_C = 1 mA$ => $g_m = \frac{1mA}{26mV} \approx \frac{1}{25\Omega} = 0.04 S$
++ if $I_C = 1 mA \to g_m = \frac{1mA}{26mV} \approx \frac{1}{25\Omega} = 0.04 S$
 + With no bias, $I_C = 0$ => $g_m = 0$ => no amplification
 + For amplification, need a certain $g_m$ => certain $I_C$ => certain $V_{BE}$
 + The tradeoff between $g_m$ and power consumption

@@ -8,7 +8,7 @@ This is my note for the electronics from razavi, I hope I can keep going it!!!
 
 1. [Basic Properties of Bipolar Transistors](#basic-properties-of-bipolar-transistors)
 2. [Terminal Currents](#terminal-currents)
-3. [Concept of Bias](#concept-of-bias)
+
 
 
 
@@ -41,5 +41,3 @@ This is my note for the electronics from razavi, I hope I can keep going it!!!
 + $V_{BE} = V_T\ln \frac{I_C}{I_S} = 778 mV$
 + If $\beta = 50$, $I_B = \frac{I_C}{\beta} = 20 \mu A$
 
----
-## Concept of Bias

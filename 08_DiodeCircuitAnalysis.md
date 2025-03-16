@@ -27,7 +27,7 @@ This is my note for the electronics from razavi, I hope I can keep going it!!!
 
 ---
 ## Examples Using Constant-V Model
-+ See youtube video
++ [See video tutorial](https://www.youtube.com/watch?v=5NSKxgWZFEE&list=PLyYrySVqmyVPzvVlPW-TTzHhNWg1J_0LU&index=8&ab_channel=BehzadRazavi%28LongKong%29)
 
 
 
