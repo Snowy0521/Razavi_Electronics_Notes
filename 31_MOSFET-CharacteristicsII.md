@@ -1,4 +1,4 @@
-# Razavi Electronics 1, Lec 30, MOS Characteristics II
+# Razavi Electronics 1, Lec 31, MOS Characteristics II
 
 This is my note for the electronics from razavi, I hope I can keep going it!!!
 
