@@ -5,8 +5,8 @@ This is my note for the electronics from razavi, I hope I can keep going it!!!
 ---
 
 ## Table of Contents
-1. [More on Transconductance]()
-2. [Large-Signal & Small-Signal Operation]()
+1. [More on Transconductance](#more-on-transconductance)
+2. [Large-Signal & Small-Signal Operation](#large-signal--small-signal-operation)
 
 
 
