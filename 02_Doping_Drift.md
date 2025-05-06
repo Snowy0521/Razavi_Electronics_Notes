@@ -60,7 +60,7 @@ This is my note for the electronics from razavi, I hope I can keep going it!!!
         - $W$: Width of the sample.
         - $h$: Height (or thickness) of the sample.
         - $n$: Number of charge carriers per unit volume (carrier concentration).
-        - $q$: Charge of each carrier (elementary charge, \( e = 1.602 \times 10^{-19} \, C \)).
+        - $q$: Charge of each carrier (elementary charge, $e = 1.602 \times 10^{-19} \, C $).
         - $\mu_n$: Mobility of charge carriers (electrons).
         - $I$: Electric current flowing through the Si piece.
         - $R$: Resistance.
@@ -73,4 +73,4 @@ This is my note for the electronics from razavi, I hope I can keep going it!!!
 + for n-type =>  $n = N_d$, $p = \frac{n_i^2}{N_d}$
 + so the number of free electrons ($n$) approximate keep constant due to the number of donor atoms is constant.
 + the number of holes($p$) rises rapidly with temperature
-+ Sum up, as T increases, majority carriers keep constant, miniority carriers increase rapidly.
++ Sum up, as **T increases, majority carriers keep constant, miniority carriers increase rapidly**.

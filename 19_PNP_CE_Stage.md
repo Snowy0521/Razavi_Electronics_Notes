@@ -28,7 +28,7 @@ This is my note for the electronics from razavi, I hope I can keep going it!!!
 + Amplifier Characteristics
 + $\text{Voltage Gain}: A_V = \frac{\text{Output Swing}}{\text{Input Swing}}$
 + Power Consumption: bias currents drain the battery.
-+ Amplifier has a voltage dependen current source converts voltage to current, first $V/I$ conversion, then $I/V$ conversion.
++ Amplifier has a voltage dependent current source converts voltage to current, first $V/I$ conversion, then $I/V$ conversion.
 ---
 ## Common-Emittler Topology
 + Problem with the topology only $R_L$, the device is dead and in saturation region

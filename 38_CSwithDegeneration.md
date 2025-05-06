@@ -46,7 +46,7 @@ Assume $\lambda = 0$
 ## Degenerated Current Source
 + The higer the $R_{out}$, The better the current source
 + $R_{out} = r_o$ without Degeneration
-+ Calculate $R_{out}$ with Degeneration$:
++ Calculate $R_{out}$ with Degeneration:
     + $v_1 = - i_x R_S$
     + $g_mv_1 = - g_m i_x R_S$
     + KVL: $v_x = r_o (i_x + g_m i_x R_S) + i_x R_S$

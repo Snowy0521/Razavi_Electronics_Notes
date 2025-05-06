@@ -22,7 +22,7 @@ This is my note for the electronics from razavi, I hope I can keep going it!!!
 ## Principles of Diode Circuit Analysis
 + Begin by assuming certain states for all diodes 
 + Check the final results against the assumptions
-+ If a diode is about to turn on or off, it muss sustain a voltag of $V_{D, on}$ , but its current is small.
++ If a diode is about to turn on or off, it muss sustain a voltage of $V_{D, on}$ , but its current is small.
 + If a diode is on and carries a current, the current must flow the anode to the cathode. 
 
 ---

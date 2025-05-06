@@ -47,11 +47,11 @@ This is my note for the electronics from razavi, I hope I can keep going it!!!
 
 ### Example
 + $V_{CC} = 1.5 V, P = 1.5mW, \beta = 100 \to I_C \approx 1mA$
-+ $\frac{1}{g_m} = \frac{I_C = 1mA}{V_T = 26mV} = 26 \Omega \to R_E = 260 \Omega$
++ $\frac{1}{g_m} = \frac{V_T = 26mV}{I_C = 1mA} = 26 \Omega \to R_E = 260 \Omega$
 + $V_x = V_{BE} + V_E \approx 1.06 V$
 + $I_B = \frac{V_{CC}}{R_1 + R_2} = 100\mu A$ and $\frac{R_2}{R_1 + R_2}V_{CC} = 1.06 V \to R_1 = 10.6 k\Omega, R_2 = 4.4 k\Omega$
 + $V_C = V_{CC} - I_C R_C \geq V_x = 1.06 V \to R_C = 440 \Omega$
-+ if $R_E \uparrow \to V_E \uparrow \to V_x \uparrow \to R_C \downarrow \to A_V \downarrow$, for this reason we should not choose $R_E$ much beyond 10 times $\frac{1}{}$
++ if $R_E \uparrow \to V_E \uparrow \to V_x \uparrow \to R_C \downarrow \to A_V \downarrow$, for this reason we should not choose $R_E$ much beyond $10 \times \frac{1}{g_m}$
 
 
 
