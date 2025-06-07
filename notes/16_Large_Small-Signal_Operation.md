@@ -22,10 +22,10 @@ This is my note for the electronics from razavi, I hope I can keep going it!!!
 
 ---
 ## Simple Transistor Model
-+ ![Simple Bipolar Transistor Model](images/SimpleBipolarTransistorModel.png)
++ ![Simple Bipolar Transistor Model](/images/SimpleBipolarTransistorModel.png)
 
 ---
 ## Large-Signal and Small-Signal Operation
 + Large-Signal operation: the signal is arbitrarily large
 + Small-Signal operation: the signal perturbs the bias(operating point) by only a small amount.
-+ ![Small Signal Operation](images/SmallSignalOperation.png)
++ ![Small Signal Operation](/images/SmallSignalOperation.png)

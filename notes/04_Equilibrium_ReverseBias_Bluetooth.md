@@ -23,7 +23,7 @@ $\int_{P_n}^{P_p} D_p \frac{dp}{p} = \mu_p \int_{x_1}^{x_2} E dx$, where ${P_n} 
 + leveaging the equation of $V_{AB} = -\int_{B}^{A} E  dx$ => $D_p \ln \frac{P_p}{P_n} = \mu_p (V_{x_1} - V_{x_2})$
 + leveaging the Einstein's relation $\frac{D}{\mu} = \frac{kT}{q}$ => Built-in Voltage $V_0 = V_{x_1} - V_{x_2} = \frac{kT}{q} \ln \frac{N_a N_d}{n_i^2}$, where $\frac{kT}{q}$ = 26mV@300k
 + Same $V_0$ expression is obtained if the electron currents are considered
-+ If $N_a$ and $N_d$ are on the order of $10^{16}/cm^3$, $V_0 \approx 26 \cdot \ln \frac{10^{32}}{10{20}} \approx 720 mV$, so typical values of $V_0$ are from $700$ to $800 mV$
++ If $N_a$ and $N_d$ are on the order of $10^{16}/cm^3$, $V_0 \approx 26 \cdot \ln \frac{10^{32}}{10^{20}} \approx 720 mV$, so typical values of $V_0$ are from $700$ to $800 mV$
 + We cannot measure $V_0$ from outside
     
 --- 

@@ -14,8 +14,8 @@ This is my note for the electronics from razavi, I hope I can keep going it!!!
 
 ---
 ## Small-Signal Model of Bipolar Transistor
-+ ![how we get this model](images/SmallSignalModelBipolar1.png)
-+ ![The complete small signal bipolar model](images/SmallSignalModelBipolar2.png)
++ ![how we get this model](/images/SmallSignalModelBipolar1.png)
++ ![The complete small signal bipolar model](/images/SmallSignalModelBipolar2.png)
 + To find the small-signal parameters, we must first calculate the bias conditions.
 ### Question: What happens to batteries with constant voltage source in small-signal operation (analysis)?
 + zero voltage source is equivalent to short circuit

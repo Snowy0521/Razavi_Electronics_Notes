@@ -24,7 +24,7 @@ This is my note for the electronics from razavi, I hope I can keep going it!!!
 + To charge a capacitor, you need to place positive charge on one plate and negative charge on the other
 + In capacitive divider, $\frac{V_{out}}{V_{in}} = \frac{1/(C_2S)}{1/(C_1S) + 1/(C_2S)} = \frac{C_1}{C_1+C_2}$, to compare, resistive divider,  $\frac{V_{out}}{V_{in}} = \frac{R_2}{R_1+R_2} $
 
-+ ![Voltage Doubler Circuit](images/VoltageDoubler.png)
++ ![Voltage Doubler Circuit](/images/VoltageDoubler.png)
 
 ---
 ## Level Shift

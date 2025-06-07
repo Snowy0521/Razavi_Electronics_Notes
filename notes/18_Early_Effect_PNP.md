@@ -21,7 +21,7 @@ This is my note for the electronics from razavi, I hope I can keep going it!!!
 
 + $g_m = \frac{d}{d_{BE}}(I_S\exp\frac{V_{BE}}{V_T})(1 + \frac{V_{CE}}{V_A}) = \frac{I_S}{V_T}\exp\frac{V_{BE}}{V_T} (1 + \frac{V_{CE}}{V_A}){V_T} \approx \frac{I_C}{V_T}$, where $V_A$ is Early Voltage.
 
-+ ![Small Signal Model for Bipolar Transistor with Early Effect](images/SmallSignalModelBipolarEarlyEffect.png)
++ ![Small Signal Model for Bipolar Transistor with Early Effect](/images/SmallSignalModelBipolarEarlyEffect.png)
 
 + If $V_{CE} < V_{BE}$, the bipolar transistor in saturation region due to both forward bias junction. The saturation region should be avoided.
 
